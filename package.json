@@ -1,0 +1,23 @@
+{
+  "name": "personal-read.me-genorator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connorbottone/Personal-Read.me-Genorator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connorbottone/Personal-Read.me-Genorator/issues"
+  },
+  "homepage": "https://github.com/connorbottone/Personal-Read.me-Genorator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
