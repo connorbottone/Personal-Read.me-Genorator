@@ -1,4 +1,7 @@
  # Personal-Readme.md-Genorator
+  
+  [Untitled_ Dec 16, 2022 10_28 PM.webm](https://user-images.githubusercontent.com/42557300/208221691-549c811e-4e0c-4772-8328-c3ce51c98725.webm)
+
   ## Description
 
 - This application was designed to help users make a high quality readme by completing the prompt questions.
