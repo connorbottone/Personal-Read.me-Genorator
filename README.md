@@ -52,7 +52,7 @@
   ## Features 
   - Prompt questions that take users input and generates readme.md file.
   - License options that are selected will change the badge icon that is displayed on screen.
-  
+  - Table of contents to redirect user.
  
   ## Questions 
 [Any questions regarding this application contact me at] (connorbottone@gmail.com)
