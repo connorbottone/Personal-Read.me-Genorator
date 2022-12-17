@@ -10,6 +10,7 @@ const generateMarkdown = ({projectTitle,description,install,usage,license,featur
    ` #<${projectTitle}>
 
   ## Description
+
 - ${description}
   
   ## Table of Contents
@@ -51,7 +52,7 @@ ${contributions}
   ${test}
  
   ## Questions 
-Any questions regarding this application contact me at ${contactEmail}
+[Any questions regarding this application contact me at] (${contactEmail})
 [Link to my Github profile](${contactGit})
 `;
 

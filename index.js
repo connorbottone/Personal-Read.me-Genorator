@@ -30,7 +30,7 @@ inquirer.prompt([
             type: 'list',
             name: 'license',
             message: 'Provide instructions and examples for use.',
-            choices: ['Apache 2.0 License', 'Boost Software License 1.0', 'BSD 3-Clause License', 'BSD 2-Clause License','Eclipse Public License 1.0','GNU GPL v3','IBM Public License Version 1.0','ISC License (ISC)','The MIT License']//fill in the liscense options here 
+            choices: ['Apache 2.0 License', 'Boost Software License 1.0', 'BSD 3-Clause License', 'BSD 2-Clause License','Eclipse Public License 1.0','GNU GPL v3','GNU GPL v2','GNU AGPL v3','GNU LGPL v3','GNU FDL v1.3','IBM Public License Version 1.0','ISC License (ISC)','The MIT License','The Unlicense']//fill in the liscense options here 
         },
         {
             type: 'input',
