@@ -1,5 +1,4 @@
  # Personal-Readme.md-Genorator
-2022-12-16 18-49-37.mp4
   ## Description
 
 - This application was designed to help users make a high quality readme by completing the prompt questions.
